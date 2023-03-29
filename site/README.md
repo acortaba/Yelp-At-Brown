@@ -58,7 +58,7 @@ Github: https://github.com/cs0320-f2022/term-project-acortaba-fleahy-scortaba-sp
     Because of firebases' limited reads we can only reload the page so many times each day before we use up the reads. 
 
 ## Tests: 
-    We tested a lot of the front end stuff using React testing library components and aria labels to check that the elements rendered correctly and were visible. We also unit tested our fron end data structures and adding and removing from them. NavBar testing tests the nav bar section and menu.test.tsx tests the different menu elements for the different pages. 
+    We tested a lot of the front end using React testing library components and aria labels to check that the elements rendered correctly and were visible. We also unit tested our fron end data structures and adding and removing from them. NavBar testing tests the nav bar section and menu.test.tsx tests the different menu elements for the different pages. 
 
     Testing our backend was a little differnt. One of the main ways we tested that ratings were pushed correctly was manuelly testing the firebase itself. We ran into timeout errors from using getDoc on a firebase, so as a solution we manually checked that the correct data was pushed to firebase and the correct average rating was obtained. 
 
