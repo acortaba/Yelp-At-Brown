@@ -8,7 +8,7 @@ Team Members and Contributions
 
     spawar2 - front end nav bar and menu design, implementation and testing 
     fleahy - firebase/ webscraping/ integration of backend to frontend
-    acortaba - 
+    acortaba - Populated and instantiated the different menus for each dining hall
     scortaba - rating implementation in front and back end
 
 Collaboration 
