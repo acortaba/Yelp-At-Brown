@@ -4,25 +4,8 @@ Term Project: Brown Yelp
 Description: 
     Rating site for Brown dining halls that allows users to view the current daily food options for the Ratty, Vdub, and Andrews, and rate foods out of 5 while also viewing the current rating each food has
 
-Team Members and Contributions 
-
-    spawar2 - front end nav bar and menu design, implementation and testing 
-    fleahy - firebase/ webscraping/ integration of backend to frontend
-    acortaba - Populated and instantiated the different menus for each dining hall
-    scortaba - rating implementation in front and back end
-
-Collaboration 
-
-    wvandewa of (emickels-estill-jrytel-mgrinber-wvandewa) - react dom router and nav bar general set up 
-    Firebase website/ stack overflow / other various intenert sojrces tied to firebase(how to use firebase)
-    Cherrio webscaping website/stack overflow / other various internet sources tied to webscraping/cheerio (how to webscape)
-
-
-
 Total Estimated Time: 
     50+
-
-Github: https://github.com/cs0320-f2022/term-project-acortaba-fleahy-scortaba-spawar2
 
 
 ## Design Choices: 
