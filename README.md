@@ -5,12 +5,7 @@ Description:
 
     Rating site for Brown dining halls that allows users to view the current daily food options for the Ratty, Vdub, and Andrews, and rate foods out of 5 while also viewing the current rating each food has
 
-Team Members and Contributions 
 
-    spawar2 - front end nav bar and menu design, implementation and testing 
-    fleahy - firebase/ webscraping/ integration of backend to frontend
-    acortaba - 
-    scortaba - rating implementation in front and back end
 
 Collaboration 
 
